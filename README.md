@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Samuel Godson S ~
 I’m currently working on~<br>Full-stack web applications using Next.js, FastAPI, and PostgreSQL<br>Strengthening backend architecture and scalable system design<br><br>👯 I’m looking to collaborate on~<br>Open-source projects related to backend, APIs, and AI integration<br>Hackathons and real-world problem-solving projects<br>Startup-style products where learning + impact matter<br><br>🤝 I’m looking for help with~<br>Advanced system design and production-level backend practices<br><br>🌱 I’m currently learning~<br>Advanced FastAPI & backend optimization<br>AI workflows, vector databases, and RAG systems<br>Clean architecture, Docker, and deployment strategies<br><br>Learning tech the industry way, not just tutorials<br><br>⚡ Fun fact<br>I don’t stop until things actually work ~<br>debugging is my cardio 😄
 
 
